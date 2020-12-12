@@ -1,0 +1,27 @@
+
+  
+header {
+background-color: #3366FF;
+
+}
+
+.top {
+font-size: xx-large;
+}
+
+.top2 {
+font-size: x-large;
+}
+
+.nice-textbox{
+position: relative;
+display: block;
+width: 500px;
+margin-top: 50px;
+padding: 15px;
+border: none;
+border-radius: 5px;
+font-size: 16px;
+color: #a0a0a0;
+outline: none;
+}
